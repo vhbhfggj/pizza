@@ -1,0 +1,119 @@
+h1,h2,h3,p,ul {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    font-size: 22px;
+}
+.container {
+    width: 1200px;
+    margin: 0;
+}
+.header {
+    background-color: aqua;
+    padding: 10px 0;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-img {
+    width: 120px;
+}
+header-list {
+    display: flex;
+}
+.header-link { 
+font-size: 24px;
+color: white;
+font-weight: 700;
+margin-left: 50px;
+} 
+.header-link:hover .header-link:hover,fokus {
+color: blanchedalmond;
+}
+.hero {
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.hero-container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+hero-title {
+    color: red;
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.hero-text {
+    padding-bottom: 30px;
+}
+.dough {
+    background-color: bisque;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.dough-container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.dough-title {
+    color: brown;
+    font-size: 33px;
+    padding-bottom: 25px;
+    font-weight: 700;
+}
+.dough-list {
+padding-left: 50px;
+padding-bottom: 25px;
+list-style: disc;
+}
+.filling {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.filling-container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.filling-title {
+    color: chocolate;
+    font-size: 33px;
+    font-weight: 700;
+    padding-bottom: 25px;
+}  
+.filling-list {
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.footer {
+    background-color: burlywood;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.footer-text {
+    color: white;
+    font-size: 18px;
+}
+.footer-text {
+    
+}
